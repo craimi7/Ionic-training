@@ -1,0 +1,7 @@
+{
+  "name": "trainingg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
